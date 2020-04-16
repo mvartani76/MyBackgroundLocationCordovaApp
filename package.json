@@ -41,7 +41,7 @@
     "url-loader": "^0.6.2",
     "react": "=16.3.2",
     "react-art": "=16.3.2",
-    "react-dom": "=16.3.2",
+    "react-dom": "=16.13.0",
     "react-google-maps": "=9.2.2",
     "react-native-web": "=0.6.1",
     "react-navigation": "=1.0.0-beta.19",
